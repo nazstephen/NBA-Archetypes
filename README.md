@@ -29,8 +29,6 @@ regular season data as this is the last full season.
 
 Resources:
 
-Dataset: 
-
-[2023-2024 NBA Player Stats - Regular.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/662b586e-86b7-4f44-9740-1dc06c7a67a4/c2ca36c6-3d92-4c42-82c6-cfe89a18637c/2023-2024_NBA_Player_Stats_-_Regular.csv)
+- Dataset: [2023-2024 NBA Player Stats - Regular.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/662b586e-86b7-4f44-9740-1dc06c7a67a4/c2ca36c6-3d92-4c42-82c6-cfe89a18637c/2023-2024_NBA_Player_Stats_-_Regular.csv)
 
 - This dataset on Kaggle: https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats?resource=download&select=2023-2024+NBA+Player+Stats+-+Regular.csv
